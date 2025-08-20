@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TogiAmal/React_APP.git/static/css/main.43cb4a79.css",
+    "main.js": "/TogiAmal/React_APP.git/static/js/main.6b0f8b78.js",
+    "static/js/453.7465ba4c.chunk.js": "/TogiAmal/React_APP.git/static/js/453.7465ba4c.chunk.js",
+    "index.html": "/TogiAmal/React_APP.git/index.html",
+    "main.43cb4a79.css.map": "/TogiAmal/React_APP.git/static/css/main.43cb4a79.css.map",
+    "main.6b0f8b78.js.map": "/TogiAmal/React_APP.git/static/js/main.6b0f8b78.js.map",
+    "453.7465ba4c.chunk.js.map": "/TogiAmal/React_APP.git/static/js/453.7465ba4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43cb4a79.css",
+    "static/js/main.6b0f8b78.js"
+  ]
+}
